@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>UIPaneShowcase.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -18,6 +23,11 @@
 			<true/>
 		</dict>
 		<key>57DD96DC1F18FF010001C481</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>57DD96FD1F19008E0001C481</key>
 		<dict>
 			<key>primary</key>
 			<true/>
